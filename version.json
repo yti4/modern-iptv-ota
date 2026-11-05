@@ -1,7 +1,7 @@
 ﻿{
-  "versionCode": 10,
-  "versionName": "4.0.0",
+  "versionCode": 11,
+  "versionName": "4.1.0",
   "apkUrl": "https://github.com/yti4/modern-iptv-ota/releases/download/latest/app-debug.apk",
-  "changelog": "Version initiale optimisée pour boîtiers X96 et Android TV.",
+  "changelog": "• Optimisations majeures pour boîtiers X96 et Android TV\n• Fluidité 60 FPS et décodage matériel amélioré\n• Nouveau système de mise à jour automatique OTA",
   "mandatory": false
 }
